@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(231, 171, 111);
+}
+h1{
+    color: maroon;
+    text-align: center;
+    background-color: bisque;
+}
+img{
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+p{
+    text-align: center;
+}
